@@ -4,7 +4,7 @@
 
 ## 🧪 Week 1 Demo
 - ROS 2 installed + turtlesim running.  
-- Demo video: (add link or upload to `docs/videos/` and link it)
+- Demo video: [turtlesim](docs/videos/ROS2.mp4)
 
 ## 🔧 Environment
 - Ubuntu 22.04, ROS 2 Humble, VS Code, Git.
