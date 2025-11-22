@@ -1,5 +1,5 @@
 ## Certificates
-- **Universal Robots — e-Series Core**  
+- **Universal Robots - e-Series Core**  
   Proof: [certificate (PDF)](docs/certificates/UR_eSeries_Core.pdf)
 
 ## Week 1 Demo
