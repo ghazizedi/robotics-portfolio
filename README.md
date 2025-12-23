@@ -8,8 +8,6 @@ The primary goal of this project was to gain hands-on experience with the **full
 
 This project serves as a foundational platform for future upgrades toward **industrial-style manipulation, autonomy, and AI-assisted perception**.
 
----
-
 ## System Architecture
 
 ### Mechanical
@@ -35,8 +33,6 @@ This project serves as a foundational platform for future upgrades toward **indu
 - **Joystick push button used for mode switching**
   - Enables control of all 6 servos using minimal input hardware
 
----
-
 ## Control Logic
 
 - Joystick analog values are read using the Arduino’s ADC
@@ -48,8 +44,6 @@ This project serves as a foundational platform for future upgrades toward **indu
   - Mode 3: Wrist rotation + Gripper
 
 This approach mirrors real robotic systems where **context-based input switching** is used to manage complex systems with limited controls.
-
----
 
 ## CAD & Mechanical Design (Fusion 360)
 
@@ -71,8 +65,6 @@ All mechanical components were designed in **Autodesk Fusion** using a parametri
   - Designing screw bosses that do not crack under load
 
 The final design required multiple **print–test–redesign iterations**, reinforcing the importance of iterative engineering.
-
----
 
 ## What I Learned
 
@@ -129,8 +121,6 @@ The final design required multiple **print–test–redesign iterations**, reinf
 - Implementing safe and predictable mode switching
 - Avoiding accidental state transitions during operation
 
----
-
 ## Limitations of V1
 
 - Servo backlash and gear slop
@@ -141,8 +131,6 @@ The final design required multiple **print–test–redesign iterations**, reinf
 - Manual operation only
 
 These limitations directly inform the next design iteration.
-
----
 
 ## Future Improvements (V2 and Beyond)
 
@@ -180,7 +168,10 @@ These limitations directly inform the next design iteration.
 
 ## Media & Documentation
 CAD Files: 
+
 Firmware:
+
 Wiring Diagram:
+
 
 
