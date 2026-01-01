@@ -2,13 +2,13 @@
 
 ## Overview
 
-This project is a **Version 1 (V1) robotic arm** designed and built from scratch using hobby-grade actuators, custom 3D-printed mechanical components, and embedded control electronics. The arm is manually controlled using **two analog joysticks**, with **mode switching via joystick push buttons**, allowing multiple degrees of freedom to be controlled with limited input hardware.
+This project is a Version 1 (V1) robotic arm designed and built from scratch using hobby-grade actuators, custom 3D-printed mechanical components, and embedded control electronics. The arm is manually controlled using two analog joysticks**, with mode switching via joystick push buttons, allowing multiple degrees of freedom to be controlled with limited input hardware.
 
 ![Neo V1](media/images/IMG_4748.png)
 
-The primary goal of this project was to gain hands-on experience with the **full robotics engineering pipeline**: mechanical design, electronics, power management, embedded programming, debugging, and iterative improvement.
+The primary goal of this project was to gain hands-on experience with the full robotics engineering pipeline: mechanical design, electronics, power management, embedded programming, debugging, and iterative improvement.
 
-This project serves as a foundational platform for future upgrades toward **industrial-style manipulation, autonomy, and AI-assisted perception**. 
+This project serves as a foundational platform for future upgrades toward industrial-style manipulation, autonomy, and AI-assisted perception. 
 
 ## System Architecture
 
@@ -16,7 +16,7 @@ This project serves as a foundational platform for future upgrades toward **indu
 - **6 total joints**
   - **3 × MS24 high-torque servos** (base, shoulder, elbow)
   - **3 × SG90 micro servos** (wrist axes + gripper)
-- Fully **custom 3D-printed arm links, joints, and gripper**
+- Fully custom 3D-printed arm links, joints, and gripper
 
 ### Electronics
 - **Arduino Nano** (main microcontroller)
