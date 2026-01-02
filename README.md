@@ -171,6 +171,6 @@ These limitations directly inform the next design iteration.
 - Fewer fasteners with better mechanical interfaces
 
 ## Documentation
-CAD Files: [ ](CAD/Neo_V1.f3d)
+CAD Files: [Neo V1](CAD/Neo_V1.f3d)
 
 
