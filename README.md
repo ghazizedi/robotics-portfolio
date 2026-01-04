@@ -1,8 +1,8 @@
-# Neo V1 (6-DOF Robotic Arm)
+# Neo v1 (6-DOF Robotic Arm)
 
 ## Overview
 
-This project is a Version 1 (V1) robotic arm designed and built from scratch using hobby-grade actuators, custom 3D-printed mechanical components, and embedded control electronics. The arm is manually controlled using two analog joysticks, with mode switching via joystick push buttons, allowing multiple degrees of freedom to be controlled with limited input hardware.
+This project is a Version 1 (v1) robotic arm designed and built from scratch using hobby-grade actuators, custom 3D-printed mechanical components, and embedded control electronics. The arm is manually controlled using two analog joysticks, with mode switching via joystick push buttons, allowing multiple degrees of freedom to be controlled with limited input hardware.
 
 ![Neo V1](media/images/IMG_4748.png)
 
